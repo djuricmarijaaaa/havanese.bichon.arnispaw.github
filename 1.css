@@ -1,0 +1,52 @@
+*{
+    text-align: center;
+    
+}
+.n a{
+   color: #ded9d9;
+    text-decoration: none;
+    margin: 3px;
+}
+.n{
+    background-color: #f74c43;
+    
+}
+h1{
+    color: #f74c43;
+    border-color: #f74c43;
+    border-radius: 90px;
+    text-align: center;
+    border:solid 10px;
+}
+.by{
+    text-align: center;
+    color: #f74c43;
+}
+.ppn{
+    text-align: center;
+    font-size: 20px;
+}
+.osn{
+    color: #f74c43;
+    text-align: center;
+    font-size: 20px;
+}
+ul{
+    color: #f74c43;
+    text-align: left;
+    font-size: 20px;
+}
+.l{
+    color: #f74c43;
+}
+.imgt{
+    color: #f74c43;
+
+}
+.imgt a{
+    text-decoration: none;
+    color: #b81111;
+}
+.os{
+    font-size: 20px;
+}
